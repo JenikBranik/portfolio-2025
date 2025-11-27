@@ -16,4 +16,4 @@ class DuplicateController:
             print(app)
 
         except (FileNotFoundError, NotADirectoryError, ValueError) as e:
-            print(f"\nCHYBA: {e}")
+            print(f"\nError: {e}")
