@@ -1,5 +1,8 @@
 <h1>Portfolio for 2025</h1>
 
+## My projects
+* **Duplicate checker** - https://github.com/JenikBranik/duplicate-checker
+
 ## About me
 * contact: vavrousek@spsejecna.cz
 * school: SPŠE Ječná
