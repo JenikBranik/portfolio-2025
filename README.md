@@ -2,6 +2,7 @@
 
 ## My projects
 * **Duplicate checker** - https://github.com/JenikBranik/duplicate-checker
+* **Fit Tracker** - https://github.com/JenikBranik/fit-tracker
 
 ## About me
 * contact: vavrousek@spsejecna.cz
