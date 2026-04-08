@@ -2,9 +2,9 @@
 
 ## My projects
 * [**Duplicate checker**](https://github.com/JenikBranik/duplicate-checker)
-* **Fit Tracker** - https://github.com/JenikBranik/fit-tracker
-* **P2P Node Bank** - https://github.com/JenikBranik/PV-Project-P2P
-* **Clickbait Analyzer** - https://github.com/JenikBranik/clickbait-analyzer
+* [**Fit Tracker**](https://github.com/JenikBranik/fit-tracker)
+* [**P2P Node Bank**](https://github.com/JenikBranik/PV-Project-P2P)
+* [**Clickbait Analyzer**](https://github.com/JenikBranik/clickbait-analyzer)
 
 ## About me
 * contact: vavrousek@spsejecna.cz
